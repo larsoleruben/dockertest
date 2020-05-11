@@ -11,7 +11,7 @@
 2. Tell the candiate to containerize the simple python script with the enclosed docker file and to build the image with a tag, i.e "evil-test-app:1.0.0"
 3. Ask the candidate to run the container interactively and make sure the container is deleted after it has stopped
 4. Ask the candidate to check if the container is really stopped and deleted
-5. Optional, as why we make a user in the docker file
+5. Optional, ask why we make a user in the docker file
 
 
 ## Necessary commands
