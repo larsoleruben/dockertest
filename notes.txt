@@ -1,6 +1,0 @@
-Commands
-
-docker build -t evil-test-app:1.0.0 .
-docker run -it --rm --name test-running-app evil-test-app:1.0.0
-
-
