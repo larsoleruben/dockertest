@@ -2,7 +2,7 @@
 
 ## What is in this test
 
-1. There is a very simple docker file pulling the latest docker:3 image from docker hub
+1. There is a very simple docker file pulling the latest docker python:3 image from docker hub
 2. There is a "hello world" python script, which uses an environment variable, defined in the docker file
 3. The docker file adds a user, so we do not run as root.
 
