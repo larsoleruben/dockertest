@@ -18,4 +18,4 @@
 1. Task number 2 above: ```docker build -t evil-test-app:1.0.0 .```
 2. Task number 3: ```docker run -it --rm --name test-running-app evil-test-app:1.0.0```
 3. Task number 4: ```docker container ls -a``` 
-4. Task number 5: To enhance security. Docker uses root as default, and we limit the attack surface significatly by using a normal user.
+4. Task number 5: To enhance security. Docker uses root as default, and we limit the attack surface significantly by using a normal user.
